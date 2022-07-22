@@ -1,0 +1,15 @@
+D:\TASK_5\ex36\obj\Debug\net6.0\ex36.csproj.AssemblyReference.cache
+D:\TASK_5\ex36\obj\Debug\net6.0\ex36.GeneratedMSBuildEditorConfig.editorconfig
+D:\TASK_5\ex36\obj\Debug\net6.0\ex36.AssemblyInfoInputs.cache
+D:\TASK_5\ex36\obj\Debug\net6.0\ex36.AssemblyInfo.cs
+D:\TASK_5\ex36\obj\Debug\net6.0\ex36.csproj.CoreCompileInputs.cache
+D:\TASK_5\ex36\bin\Debug\net6.0\ex36.exe
+D:\TASK_5\ex36\bin\Debug\net6.0\ex36.deps.json
+D:\TASK_5\ex36\bin\Debug\net6.0\ex36.runtimeconfig.json
+D:\TASK_5\ex36\bin\Debug\net6.0\ex36.dll
+D:\TASK_5\ex36\bin\Debug\net6.0\ex36.pdb
+D:\TASK_5\ex36\obj\Debug\net6.0\ex36.dll
+D:\TASK_5\ex36\obj\Debug\net6.0\refint\ex36.dll
+D:\TASK_5\ex36\obj\Debug\net6.0\ex36.pdb
+D:\TASK_5\ex36\obj\Debug\net6.0\ex36.genruntimeconfig.cache
+D:\TASK_5\ex36\obj\Debug\net6.0\ref\ex36.dll
