@@ -1,0 +1,15 @@
+D:\TASK_5\ex34\obj\Debug\net6.0\ex34.csproj.AssemblyReference.cache
+D:\TASK_5\ex34\obj\Debug\net6.0\ex34.GeneratedMSBuildEditorConfig.editorconfig
+D:\TASK_5\ex34\obj\Debug\net6.0\ex34.AssemblyInfoInputs.cache
+D:\TASK_5\ex34\obj\Debug\net6.0\ex34.AssemblyInfo.cs
+D:\TASK_5\ex34\obj\Debug\net6.0\ex34.csproj.CoreCompileInputs.cache
+D:\TASK_5\ex34\bin\Debug\net6.0\ex34.exe
+D:\TASK_5\ex34\bin\Debug\net6.0\ex34.deps.json
+D:\TASK_5\ex34\bin\Debug\net6.0\ex34.runtimeconfig.json
+D:\TASK_5\ex34\bin\Debug\net6.0\ex34.dll
+D:\TASK_5\ex34\bin\Debug\net6.0\ex34.pdb
+D:\TASK_5\ex34\obj\Debug\net6.0\ex34.dll
+D:\TASK_5\ex34\obj\Debug\net6.0\refint\ex34.dll
+D:\TASK_5\ex34\obj\Debug\net6.0\ex34.pdb
+D:\TASK_5\ex34\obj\Debug\net6.0\ex34.genruntimeconfig.cache
+D:\TASK_5\ex34\obj\Debug\net6.0\ref\ex34.dll
