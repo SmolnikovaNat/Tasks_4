@@ -1,0 +1,15 @@
+D:\TASK_5\ex38\obj\Debug\net6.0\ex38.csproj.AssemblyReference.cache
+D:\TASK_5\ex38\obj\Debug\net6.0\ex38.GeneratedMSBuildEditorConfig.editorconfig
+D:\TASK_5\ex38\obj\Debug\net6.0\ex38.AssemblyInfoInputs.cache
+D:\TASK_5\ex38\obj\Debug\net6.0\ex38.AssemblyInfo.cs
+D:\TASK_5\ex38\obj\Debug\net6.0\ex38.csproj.CoreCompileInputs.cache
+D:\TASK_5\ex38\bin\Debug\net6.0\ex38.exe
+D:\TASK_5\ex38\bin\Debug\net6.0\ex38.deps.json
+D:\TASK_5\ex38\bin\Debug\net6.0\ex38.runtimeconfig.json
+D:\TASK_5\ex38\bin\Debug\net6.0\ex38.dll
+D:\TASK_5\ex38\bin\Debug\net6.0\ex38.pdb
+D:\TASK_5\ex38\obj\Debug\net6.0\ex38.dll
+D:\TASK_5\ex38\obj\Debug\net6.0\refint\ex38.dll
+D:\TASK_5\ex38\obj\Debug\net6.0\ex38.pdb
+D:\TASK_5\ex38\obj\Debug\net6.0\ex38.genruntimeconfig.cache
+D:\TASK_5\ex38\obj\Debug\net6.0\ref\ex38.dll
